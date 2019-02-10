@@ -1,1 +1,1 @@
-First file to move texts
+Clean version of British Empiricism Corpus
